@@ -24,11 +24,74 @@ Classes will combine lecture and discussion. Each class is keyed to a set of rea
 Grading Policy
 --------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-|  {{< br >}}{{< br >}} Participation {{< br >}}{{< br >}} _You must attend class, keep up with readings, and participate in discussions. Short in-class written assignments and informal oral presentations may be asked of you throughout the semester._ {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 20% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Four short written assignments (2 of which are re-writes or elaborations) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 45% {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Final paper {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} 35% {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Participation
+
+_You must attend class, keep up with readings, and participate in discussions. Short in-class written assignments and informal oral presentations may be asked of you throughout the semester._
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+20%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Four short written assignments (2 of which are re-writes or elaborations)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+45%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Final paper
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+35%
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 For more detailed information, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
 
