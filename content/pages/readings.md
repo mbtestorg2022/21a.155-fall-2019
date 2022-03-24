@@ -784,9 +784,9 @@ Guest lecture: Andrea McClave, [MIT Integrated Design & Management](https://idm.
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“MIT Food Insecurity Solutions Working Group Report” (PDF)](https://studentlife.mit.edu/sites/default/files/Documents/FISWGReport.pdf) 2018.
+[“MIT Food Insecurity Solutions Working Group Report” (PDF)](https://studentlife.mit.edu/sites/default/files/Documents/FISWGReport.pdf) 2018.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“MIT Food & Sustainability Working Group Report” (PDF - 5.7MB)](https://sustainability.mit.edu/sites/default/files/2018-11/Final_FoodGroupRecs_Nov9.pdf) 2018.
+[“MIT Food & Sustainability Working Group Report” (PDF - 5.7MB)](https://sustainability.mit.edu/sites/default/files/2018-11/Final_FoodGroupRecs_Nov9.pdf) 2018.
 
 
 {{< tdclose >}}
@@ -842,7 +842,7 @@ Williams-Forson, Psyche. “[‘I Haven’t Eaten If I Don’t Have My Soup and 
 
 Loh, Penn, and Julian Agyeman. “Boston’s Emerging Food Solidarity Economy.” Chapter 11 in _The New Food Activism: Opposition, Cooperation, and Collective Action._ Edited by Alison Hope Alkon and Julie Guthman. University of California Press, 2017. ISBN: 9780520292147. 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[“Food for Free Annual Report 2019” (PDF - 2.8MB)](https://foodforfree.org/wp-content/uploads/2019/08/FFFAR19.pdf)
+[“Food for Free Annual Report 2019” (PDF - 2.8MB)](https://foodforfree.org/wp-content/uploads/2019/08/FFFAR19.pdf)
 
 
 {{< tdclose >}}
